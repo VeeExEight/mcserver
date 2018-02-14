@@ -1,0 +1,15 @@
+main: com.GlitchedExploit.Commands.Commands
+name: Commands
+version: 1.0
+author: GlitchedExploit
+commands:
+   starter:
+      permission: commands.starter
+      description: Aliase for kit starter!
+   discord:
+      permission: commands.discord
+      description: Join our discord server!
+   rules:
+      permission: commands.serverrules
+      description: View the server rules!
+      aliases: [serverrules, rule, tos]

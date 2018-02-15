@@ -13,3 +13,7 @@ commands:
       permission: commands.serverrules
       description: View the server rules!
       aliases: [serverrules, rule, tos]
+   wilderness:
+      permission: commands.wilderness
+      description: Randomly teleport across the server!
+      aliases: [random, randomtp, rtp, wild, wildtp]
